@@ -17,42 +17,40 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an Associate Professor and Master Supervisor at the School of Computer Science and Technology, East China Normal University (ECNU). 
+I was selected for the Shanghai Youth Science and Technology Rising Star Program (上海市青年科技启明星计划) in 2023.
+My research interests primarily focus on foundational issues in NLP and AI for medicine and education, such as Large Language Models, clinical NLP, and AI-assisted education. 
+I completed my Ph.D. at the [Research Center for Social Computing and Information Retrieval (SCIR)](https://ir.hit.edu.cn/) in 2022, under the supervision of Professor [Wanxiang Che](http://ir.hit.edu.cn/~car/). 
+From 2022 to 2024, I was a young researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), working on the large language model for the medical domain.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Work Experience
+- *2024.05 - Present*, Assistant Professor, East China Normal University.
+- *2022.10 - 2024.04*, Young Researcher, Shanghai AI Lab.
+- *2020.05 - 2021.05*, Algorithm Engineer Intern, Tencent.
+- *2019.04 - 2019.09*, Algorithm Engineer Intern, Tencent.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2016.09 - 2022.09*, Ph.D of Computer Science, Harbin Institute of Technology. 
+- *2012.09 - 2016.06*, Bachelor of Mathematics, Harbin Institute of Technology. 
+
+# 🎖 Honors and Awards
+- *2023* Shanghai Youth Science and Technology Rising Star Program (上海市青年科技启明星计划), 2023.
+
+# 🔥 News
+- *2024.05*: &nbsp;🎉🎉 One paper ``Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges'' has been accepted by ACL 2024.
+
+# 📝 Publications 
+1. *Xiaoming Shi*, Zeming Liu, Li Du, Yuxuan Wang, Hongru Wang, Yuhang Guo, Tong Ruan, Jie Xu, and Shaoting Zhang, Medical Dialogue System: A Survey of Categories,
+Methods, Evaluation and Challenges, In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024) Findings.
+2. *Xiaoming Shi*, Zeming Liu, Chuan Wang, Haitao Leng, Kui Xue, Xiaofan Zhang, and Shaoting Zhang, MidMed: Towards Mixed-Type Dialogues for Medical Consultation. In Proceedings of the 61st Annual Meeting of the Association for Computational
+Linguistics (ACL 2023).
+3. *Xiaoming Shi*, Haifeng Hu, Wanxiang Che, Zhongqian Sun, Ting Liu and Junzhou Huang, Understanding Medical Conversations with Scattered Keyword Attention and Weak Supervision from Responses. In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020).
+4. *Xiaoming Shi*, Sendong Zhao, Wanxiang Che, Yefeng Zheng, Understanding Patient Query with Weak Supervision from Doctor Response, IEEE Journal of Biomedical and Health Informatics 26, no. 6 (2021): 2770-2777, IF: 7.700, 中科院一区.
+5. Mingchao Li, Xiaoming Shi, Haitao Leng, Wei Zhou, Haitao Zheng, and Kuncai Zhang, Learning Semantic Alignment with Global Modality Reconstruction for VideoLanguage Pre-training towards Retrieval. In Proceedings of the Thirty-Seventh AAAI
+Conference on Artificial Intelligence (AAAI 2023), Co-first author.
+6. *Xiaoming Shi*, and Wanxiang Che, Combating with Extremely Noisy Samples in Weakly Supervised Slot Filling for Automatic Diagnosis, Frontiers of Computer Science 17, no. 5 (2023): 175333.
+7. Haitao Leng, *Xiaoming Shi*, Wei Zhou, Kuncai Zhang, Qiankun Shi, and Pengcheng Zhu, AF Adapter: Continual Pretraining for Building Chinese Biomedical Language Model. In Proceedings of the IEEE International Conference on Multimedia and Expo, Co-first author.
+8. Yongyu Yan, Kui Xue, *Xiaoming Shi*, Qi Ye, Jingping Liu, and Tong Ruan, Online Action Detection with Learning Future Representations by Contrastive Learning. In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.04*, The Hong Kong Polytechnic University, A Brief Introduction of Medical Dialogue System. 
