@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaoming Shi"
-description              : "语言智能，点亮教育未来。"
+description              : "Language intelligence lights up the future of education."
 repository               : "xmshi-trio/xiaoming.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiaoming Shi"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/picture.png"
   bio              : "Harbin Institute of Technology"
   location         : "Shanghai, China"
   employer         :
