@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Associate Professor and Master Supervisor at the School of Computer Science and Technology, East China Normal University (ECNU). 
+I am an Associate Professor and Master Supervisor at the [School of Computer Science and Technology](http://www.cs.ecnu.edu.cn/), [East China Normal University](https://english.ecnu.edu.cn/). 
 I was selected for the Shanghai Youth Science and Technology Rising Star Program (上海市青年科技启明星计划) in 2023.
 My research interests primarily focus on foundational issues in NLP and AI for medicine and education, such as Large Language Models, clinical NLP, and AI-assisted education. 
 I completed my Ph.D. at the [Research Center for Social Computing and Information Retrieval (SCIR)](https://ir.hit.edu.cn/) in 2022, under the supervision of Professor [Wanxiang Che](http://ir.hit.edu.cn/~car/). 
