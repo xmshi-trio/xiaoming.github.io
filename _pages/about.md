@@ -38,7 +38,7 @@ From 2022 to 2024, I was a young researcher at [Shanghai AI Lab](https://www.shl
 - *2023* Shanghai Youth Science and Technology Rising Star Program (上海市青年科技启明星计划), 2023.
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 One paper ``Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges'' has been accepted by ACL 2024.
+- *2024.05*: &nbsp;🎉🎉 One paper ''Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges'' is accepted by ACL 2024.
 
 # 📝 Publications 
 1. **Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges.**    
@@ -49,19 +49,31 @@ From 2022 to 2024, I was a young researcher at [Shanghai AI Lab](https://www.shl
    In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023).  
    [[Paper](https://aclanthology.org/2023.acl-long.453.pdf)]
    [[Resource](https://github.com/xmshi-trio/MidMed)]
-4. **Understanding Medical Conversations with Scattered Keyword Attention and Weak Supervision from Responses.**  
-   *Xiaoming Shi*, Haifeng Hu, Wanxiang Che, Zhongqian Sun, Ting Liu and Junzhou Huang.
+3. **Understanding Medical Conversations with Scattered Keyword Attention and Weak Supervision from Responses.**  
+   *Xiaoming Shi*, Haifeng Hu, Wanxiang Che, Zhongqian Sun, Ting Liu and Junzhou Huang.  
    In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020).
-6. *Xiaoming Shi*, Sendong Zhao, Wanxiang Che, Yefeng Zheng, Understanding Patient Query with Weak Supervision from Doctor Response, IEEE Journal of Biomedical and Health Informatics 26, no. 6 (2021): 2770-2777, IF: 7.700, 中科院一区.
-7. Mingchao Li, Xiaoming Shi, Haitao Leng, Wei Zhou, Haitao Zheng, and Kuncai Zhang, Learning Semantic Alignment with Global Modality Reconstruction for VideoLanguage Pre-training towards Retrieval. In Proceedings of the Thirty-Seventh AAAI
-Conference on Artificial Intelligence (AAAI 2023), Co-first author.
-8. *Xiaoming Shi*, and Wanxiang Che, Combating with Extremely Noisy Samples in Weakly Supervised Slot Filling for Automatic Diagnosis, Frontiers of Computer Science 17, no. 5 (2023): 175333.
-9. Haitao Leng, *Xiaoming Shi*, Wei Zhou, Kuncai Zhang, Qiankun Shi, and Pengcheng Zhu, AF Adapter: Continual Pretraining for Building Chinese Biomedical Language Model. In Proceedings of the IEEE International Conference on Multimedia and Expo, Co-first author.
-10. Yongyu Yan, Kui Xue, *Xiaoming Shi*, Qi Ye, Jingping Liu, and Tong Ruan, Online Action Detection with Learning Future Representations by Contrastive Learning. In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine.
-11. **Online Action Detection with Learning Future Representations by Contrastive Learning**  
-   Yongyu Yan, Kui Xue, *Xiaoming Shi*, Qi Ye, Jingping Liu, and Tong Ruan.  
-   In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine 2023.  
+4. **Understanding Patient Query with Weak Supervision from Doctor Response.**    
+   *Xiaoming Shi*, Sendong Zhao, Wanxiang Che, Yefeng Zheng.  
+   IEEE Journal of Biomedical and Health Informatics 26, no. 6 (2021): 2770-2777.
+   [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9645193)]
+   [[Code](https://github.com/xmshi-trio/MSL)]
+5. **Learning Semantic Alignment with Global Modality Reconstruction for VideoLanguage Pre-training towards Retrieval.**  
+   Mingchao Li, *Xiaoming Shi*, Haitao Leng, Wei Zhou, Haitao Zheng, and Kuncai Zhang.
+   In Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).
+6. **Combating with Extremely Noisy Samples in Weakly Supervised Slot Filling for Automatic Diagnosis.**
+   *Xiaoming Shi*, and Wanxiang Che.
+   Frontiers of Computer Science 17, no. 5 (2023): 175333.
+   [[Paper](https://link.springer.com/article/10.1007/s11704-022-2134-1)]
+7. **AF Adapter: Continual Pretraining for Building Chinese Biomedical Language Model.**
+   Yongyu Yan, Kui Xue, *Xiaoming Shi*, Qi Ye, Jingping Liu, and Tong Ruan.
+   In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023).
+   [[Paper](https://www.computer.org/csdl/proceedings-article/bibm/2023/10385733/1TObTklefWo)]
+   [[Code](https://github.com/yanyongyu/AF-Adapter)]
+13. **Online Action Detection with Learning Future Representations by Contrastive Learning**  
+   Haitao Leng, *Xiaoming Shi*, Wei Zhou, Kuncai Zhang, Qiankun Shi, and Pengcheng Zhu.  
+   In Proceedings of the IEEE International Conference on Multimedia and Expo 2023.  
    [[PAPER](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10220027)]
+   
 
 # 💬 Invited Talks
 - *2024.04*, The Hong Kong Polytechnic University, A Brief Introduction of Medical Dialogue System. 
