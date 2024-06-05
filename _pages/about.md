@@ -51,7 +51,7 @@ From 2022 to 2024, I was a young researcher at [Shanghai AI Lab](https://www.shl
    [[Resource](https://github.com/xmshi-trio/MidMed)]
 3. **Understanding Medical Conversations with Scattered Keyword Attention and Weak Supervision from Responses.**  
    *Xiaoming Shi*, Haifeng Hu, Wanxiang Che, Zhongqian Sun, Ting Liu and Junzhou Huang.  
-   In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020).
+   In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020).  
    [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6412)]
    [[Code](https://github.com/xmshi-trio/MSL)]
 4. **Understanding Patient Query with Weak Supervision from Doctor Response.**    
@@ -60,10 +60,10 @@ From 2022 to 2024, I was a young researcher at [Shanghai AI Lab](https://www.shl
    [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9645193)]
    [[Code](https://github.com/xmshi-trio/MSL)]
 5. **Learning Semantic Alignment with Global Modality Reconstruction for VideoLanguage Pre-training towards Retrieval.**  
-   Mingchao Li, *Xiaoming Shi*, Haitao Leng, Wei Zhou, Haitao Zheng, and Kuncai Zhang.
-   In Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).
+   Mingchao Li, *Xiaoming Shi*, Haitao Leng, Wei Zhou, Haitao Zheng, and Kuncai Zhang.  
+   In Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).  
    [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25222)]
-6. **Combating with Extremely Noisy Samples in Weakly Supervised Slot Filling for Automatic Diagnosis.**
+6. **Combating with Extremely Noisy Samples in Weakly Supervised Slot Filling for Automatic Diagnosis.**  
    *Xiaoming Shi*, and Wanxiang Che.
    Frontiers of Computer Science 17, no. 5 (2023): 175333.  
    [[Paper](https://link.springer.com/article/10.1007/s11704-022-2134-1)]
