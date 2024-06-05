@@ -64,7 +64,7 @@ From 2022 to 2024, I was a young researcher at [Shanghai AI Lab](https://www.shl
    In Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).  
    [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25222)]
 6. **Combating with Extremely Noisy Samples in Weakly Supervised Slot Filling for Automatic Diagnosis.**  
-   *Xiaoming Shi*, and Wanxiang Che.
+   *Xiaoming Shi*, and Wanxiang Che.  
    Frontiers of Computer Science 17, no. 5 (2023): 175333.  
    [[Paper](https://link.springer.com/article/10.1007/s11704-022-2134-1)]
 7. **AF Adapter: Continual Pretraining for Building Chinese Biomedical Language Model.**  
