@@ -52,6 +52,9 @@ Conference on Artificial Intelligence (AAAI 2023), Co-first author.
 6. *Xiaoming Shi*, and Wanxiang Che, Combating with Extremely Noisy Samples in Weakly Supervised Slot Filling for Automatic Diagnosis, Frontiers of Computer Science 17, no. 5 (2023): 175333.
 7. Haitao Leng, *Xiaoming Shi*, Wei Zhou, Kuncai Zhang, Qiankun Shi, and Pengcheng Zhu, AF Adapter: Continual Pretraining for Building Chinese Biomedical Language Model. In Proceedings of the IEEE International Conference on Multimedia and Expo, Co-first author.
 8. Yongyu Yan, Kui Xue, *Xiaoming Shi*, Qi Ye, Jingping Liu, and Tong Ruan, Online Action Detection with Learning Future Representations by Contrastive Learning. In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine.
-
+9. **Online Action Detection with Learning Future Representations by Contrastive Learning**
+   Yongyu Yan, Kui Xue, *Xiaoming Shi*, Qi Ye, Jingping Liu, and Tong Ruan.
+   In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine 2023.
+   [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10220027)
 # 💬 Invited Talks
 - *2024.04*, The Hong Kong Polytechnic University, A Brief Introduction of Medical Dialogue System. 
