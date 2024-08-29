@@ -21,12 +21,12 @@ I am an Associate Researcher and Master Supervisor at the [School of Computer Sc
 I was selected for the Shanghai Youth Science and Technology Rising Star Program (上海市青年科技启明星计划) in 2023.
 My research interests primarily focus on foundational issues in NLP and AI for medicine and education, such as Large Language Models, clinical NLP, and AI-assisted education. 
 I completed my Ph.D. at the [Research Center for Social Computing and Information Retrieval (SCIR)](https://ir.hit.edu.cn/) in 2022, under the supervision of Professor [Wanxiang Che](http://ir.hit.edu.cn/~car/). 
-Also, I had worked as a algorithm engineer intern at [Tencent Jarvis Lab](https://jarvislab.tencent.com/) during my Ph.D.
-From 2022 to 2024, I was a associate researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), working on the large language model for the medical domain.
+Also, I had worked as a algorithm engineer intern at [Tencent Jarvis Lab](https://jarvislab.tencent.com/) during my Ph.D, under the supervision of [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=en&oi=ao).
+From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), working on the large language model for the medical domain.
 
 # 💻 Work Experience
-- *2024.05 - Present*, Assistant Professor, East China Normal University.
-- *2022.10 - 2024.04*, Young Researcher, Shanghai AI Lab.
+- *2024.05 - Present*, Associate Researcher, East China Normal University.
+- *2022.10 - 2024.04*, Associate Researcher, Shanghai AI Lab.
 - *2020.05 - 2021.05*, Algorithm Engineer Intern, Tencent.
 - *2019.04 - 2019.09*, Algorithm Engineer Intern, Tencent.
 
