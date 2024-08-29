@@ -44,38 +44,43 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
 1. **Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges.**    
    *Xiaoming Shi*, Zeming Liu, Li Du, Yuxuan Wang, Hongru Wang, Yuhang Guo, Tong Ruan, Jie Xu, and Shaoting Zhang.  
    In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024) Findings.
-2. **MidMed: Towards Mixed-Type Dialogues for Medical Consultation.**  
+   [[Paper](https://aclanthology.org/2024.findings-acl.167/)]
+3. **MidMed: Towards Mixed-Type Dialogues for Medical Consultation.**  
    *Xiaoming Shi*, Zeming Liu, Chuan Wang, Haitao Leng, Kui Xue, Xiaofan Zhang, and Shaoting Zhang.
    In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023).  
    [[Paper](https://aclanthology.org/2023.acl-long.453.pdf)]
    [[Resource](https://github.com/xmshi-trio/MidMed)]
-3. **Understanding Medical Conversations with Scattered Keyword Attention and Weak Supervision from Responses.**  
+4. **Understanding Medical Conversations with Scattered Keyword Attention and Weak Supervision from Responses.**  
    *Xiaoming Shi*, Haifeng Hu, Wanxiang Che, Zhongqian Sun, Ting Liu and Junzhou Huang.  
    In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020).  
    [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6412)]
    [[Code](https://github.com/xmshi-trio/MSL)]
-4. **Understanding Patient Query with Weak Supervision from Doctor Response.**    
+5. **Understanding Patient Query with Weak Supervision from Doctor Response.**    
    *Xiaoming Shi*, Sendong Zhao, Wanxiang Che, Yefeng Zheng.  
    IEEE Journal of Biomedical and Health Informatics 26, no. 6 (2021): 2770-2777.  
    [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9645193)]
    [[Code](https://github.com/xmshi-trio/MSL)]
-5. **Learning Semantic Alignment with Global Modality Reconstruction for VideoLanguage Pre-training towards Retrieval.**  
+6. **Learning Semantic Alignment with Global Modality Reconstruction for VideoLanguage Pre-training towards Retrieval.**  
    Mingchao Li, *Xiaoming Shi*, Haitao Leng, Wei Zhou, Haitao Zheng, and Kuncai Zhang.  
    In Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).  
    [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25222)]
-6. **Combating with Extremely Noisy Samples in Weakly Supervised Slot Filling for Automatic Diagnosis.**  
+7. **Combating with Extremely Noisy Samples in Weakly Supervised Slot Filling for Automatic Diagnosis.**  
    *Xiaoming Shi*, and Wanxiang Che.  
    Frontiers of Computer Science 17, no. 5 (2023): 175333.  
    [[Paper](https://link.springer.com/article/10.1007/s11704-022-2134-1)]
-7. **AF Adapter: Continual Pretraining for Building Chinese Biomedical Language Model.**  
+8. **AF Adapter: Continual Pretraining for Building Chinese Biomedical Language Model.**  
    Yongyu Yan, Kui Xue, *Xiaoming Shi*, Qi Ye, Jingping Liu, and Tong Ruan.  
    In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023).  
    [[Paper](https://www.computer.org/csdl/proceedings-article/bibm/2023/10385733/1TObTklefWo)]
    [[Code](https://github.com/yanyongyu/AF-Adapter)]
-8. **Online Action Detection with Learning Future Representations by Contrastive Learning**  
+9. **Online Action Detection with Learning Future Representations by Contrastive Learning**  
    Haitao Leng, *Xiaoming Shi*, Wei Zhou, Kuncai Zhang, Qiankun Shi, and Pengcheng Zhu.  
    In Proceedings of the IEEE International Conference on Multimedia and Expo 2023.  
    [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10220027)]
+10. **MedBench: A Comprehensive, Standardized, and Reliable Benchmarking System for Evaluating Chinese Medical Large Language Models**  
+   Mianxin Liu, Jinru Ding, Jie Xu, Weiguo Hu, Xiaoyang Li, Lifeng Zhu, Zhian Bai, *Xiaoming Shi*, Benyou Wang, Haitao Song, Pengfei Liu, Xiaofan Zhang, Shanshan Wang, Kang Li, Haofen Wang, Tong Ruan, Xuanjing Huang, Xin Sun, and Shaoting Zhang  
+   Big Data Mining and Analytics, 2024.  
+   [[Paper](https://www.sciopen.com/article/10.26599/BDMA.2024.9020044)]
    
 
 # 💬 Invited Talks
