@@ -37,6 +37,9 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
 # 🎖 Honors and Awards
 - *2023* Shanghai Youth Science and Technology Rising Star Program (上海市青年科技启明星计划), 2023.
 
+# 💬 Invited Talks
+- *2024.04*, The Hong Kong Polytechnic University, A Brief Introduction of Medical Dialogue System. 
+
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 One paper ''Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges'' is accepted by ACL 2024 findings.
 
@@ -82,6 +85,8 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
    Big Data Mining and Analytics, 2024.  
    [[Paper](https://www.sciopen.com/article/10.26599/BDMA.2024.9020044)]
    
-
-# 💬 Invited Talks
-- *2024.04*, The Hong Kong Polytechnic University, A Brief Introduction of Medical Dialogue System. 
+# 🧱 Patents
+1. **一种语义识别方法、装置、计算机设备和存储介质**, CN112052318A.
+2. **用于自动问答系统的分类模型训练、自动答答方法及装置**, CN112287089B.
+3. **医学词语标注方法、医学词语映射方法、装置及设备**, CN112989767B.
+4. **医学词语映射方法、装置、计算机设备及存储介质**, CN113761116A.
