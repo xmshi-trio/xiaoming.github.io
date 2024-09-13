@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am an Associate Researcher and Master Supervisor at the [School of Computer Science and Technology](http://www.cs.ecnu.edu.cn/), [East China Normal University](https://english.ecnu.edu.cn/). 
-I was selected for the Shanghai Youth Science and Technology Rising Star Program (上海市青年科技启明星计划) in 2023.
+I was selected for the Shanghai Youth Science and Technology Rising Star Program (上海市青年科技启明星扬帆专项) in 2023.
 My research interests primarily focus on foundational issues in NLP and AI for medicine and education, such as Large Language Models, clinical NLP, and AI-assisted education. 
 I completed my Ph.D. at the [Research Center for Social Computing and Information Retrieval (SCIR)](https://ir.hit.edu.cn/) in 2022, under the supervision of Professor [Wanxiang Che](http://ir.hit.edu.cn/~car/). 
 Also, I had worked as a algorithm engineer intern at [Tencent Jarvis Lab](https://jarvislab.tencent.com/) during my Ph.D, under the supervision of [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=en&oi=ao).
@@ -35,7 +35,7 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
 - *2012.09 - 2016.06*, Bachelor of Mathematics, Harbin Institute of Technology. 
 
 # 🎖 Honors and Awards
-- *2023* Shanghai Youth Science and Technology Rising Star Program (上海市青年科技启明星计划), 2023.
+- *2023* Shanghai Youth Science and Technology Rising Star Program (上海市青年科技启明星扬帆专项), 2023.
 
 # 💬 Invited Talks
 - *2024.04*, The Hong Kong Polytechnic University, A Brief Introduction of Medical Dialogue System. 
@@ -64,7 +64,7 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
    [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9645193)]
    [[Code](https://github.com/xmshi-trio/MSL)]
 6. **Learning Semantic Alignment with Global Modality Reconstruction for VideoLanguage Pre-training towards Retrieval.**  
-   Mingchao Li, *Xiaoming Shi*, Haitao Leng, Wei Zhou, Haitao Zheng, and Kuncai Zhang.  
+   Mingchao Li, *Xiaoming Shi*, Haitao Leng, Wei Zhou, Haitao Zheng, and Kuncai Zhang. (Co-first author) 
    In Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).  
    [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25222)]
 7. **Combating with Extremely Noisy Samples in Weakly Supervised Slot Filling for Automatic Diagnosis.**  
