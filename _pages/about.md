@@ -38,6 +38,7 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
 - *2023* Shanghai Youth Science and Technology Rising Star Program (上海市青年科技启明星扬帆专项), 2023.
 
 # 💬 Invited Talks
+- *2024.09*, 中国数字经济创新发展大会, AI时代算力的影响及智能教育的应用.
 - *2024.04*, The Hong Kong Polytechnic University, A Brief Introduction of Medical Dialogue System. 
 
 # 🔥 News
