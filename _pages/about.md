@@ -47,21 +47,21 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
 # 📝 Publications 
 1. **Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges.**    
    *Xiaoming Shi*, Zeming Liu, Li Du, Yuxuan Wang, Hongru Wang, Yuhang Guo, Tong Ruan, Jie Xu, and Shaoting Zhang.  
-   In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024) Findings.
+   In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024) Findings. (CCF A)
    [[Paper](https://aclanthology.org/2024.findings-acl.167/)]
 3. **MidMed: Towards Mixed-Type Dialogues for Medical Consultation.**  
    *Xiaoming Shi*, Zeming Liu, Chuan Wang, Haitao Leng, Kui Xue, Xiaofan Zhang, and Shaoting Zhang.
-   In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023).  
+   In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023). (CCF A) 
    [[Paper](https://aclanthology.org/2023.acl-long.453.pdf)]
    [[Resource](https://github.com/xmshi-trio/MidMed)]
 4. **Understanding Medical Conversations with Scattered Keyword Attention and Weak Supervision from Responses.**  
    *Xiaoming Shi*, Haifeng Hu, Wanxiang Che, Zhongqian Sun, Ting Liu and Junzhou Huang.  
-   In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020).  
+   In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020). (CCF A) 
    [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6412)]
    [[Code](https://github.com/xmshi-trio/MSL)]
 5. **Understanding Patient Query with Weak Supervision from Doctor Response.**    
    *Xiaoming Shi*, Sendong Zhao, Wanxiang Che, Yefeng Zheng.  
-   IEEE Journal of Biomedical and Health Informatics 26, no. 6 (2021): 2770-2777.  
+   IEEE Journal of Biomedical and Health Informatics 26, no. 6 (2021): 2770-2777.  ()
    [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9645193)]
    [[Code](https://github.com/xmshi-trio/MSL)]
 6. **Learning Semantic Alignment with Global Modality Reconstruction for VideoLanguage Pre-training towards Retrieval.**  
@@ -85,6 +85,9 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
    Mianxin Liu, Jinru Ding, Jie Xu, Weiguo Hu, Xiaoyang Li, Lifeng Zhu, Zhian Bai, *Xiaoming Shi*, Benyou Wang, Haitao Song, Pengfei Liu, Xiaofan Zhang, Shanshan Wang, Kang Li, Haofen Wang, Tong Ruan, Xuanjing Huang, Xin Sun, and Shaoting Zhang  
    Big Data Mining and Analytics, 2024.  
    [[Paper](https://www.sciopen.com/article/10.26599/BDMA.2024.9020044)]
+11. **大语言模型安全性:分类、评估、归因、缓解、展望**
+    李思霖, 兰天伟, 邱昱力, 单赢宇, *施晓明*, 柳泽明, 姚嘉树, 曾理, 郭宇航, 黄河燕
+    计算机学报, 2024. (CCF A类中文科技期刊)
    
 # 🧱 Patents
 1. **一种语义识别方法、装置、计算机设备和存储介质**, CN112052318A.
