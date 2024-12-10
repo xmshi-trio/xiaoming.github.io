@@ -61,7 +61,7 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
    [[Code](https://github.com/xmshi-trio/MSL)]
 4. **Understanding Patient Query with Weak Supervision from Doctor Response.**    
    *Xiaoming Shi*, Sendong Zhao, Wanxiang Che, Yefeng Zheng.  
-   IEEE Journal of Biomedical and Health Informatics 26, no. 6 (2021): 2770-2777. (CCF A)  
+   IEEE Journal of Biomedical and Health Informatics 26, no. 6 (2021): 2770-2777. (Q1)  
    [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9645193)]
    [[Code](https://github.com/xmshi-trio/MSL)]
 5. **Learning Semantic Alignment with Global Modality Reconstruction for VideoLanguage Pre-training towards Retrieval.**  
@@ -72,26 +72,26 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
    *Xiaoming Shi*, and Wanxiang Che.  
    Frontiers of Computer Science 17, no. 5 (2023): 175333. (Q1)   
    [[Paper](https://link.springer.com/article/10.1007/s11704-022-2134-1)]
-7. **AF Adapter: Continual Pretraining for Building Chinese Biomedical Language Model.**  
+7. **Online Action Detection with Learning Future Representations by Contrastive Learning**  
+   Haitao Leng, *Xiaoming Shi*, Wei Zhou, Kuncai Zhang, Qiankun Shi, and Pengcheng Zhu.  
+   In Proceedings of the IEEE International Conference on Multimedia and Expo 2023. (CCF B)  
+   [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10220027)]
+8. **MedBench: A Comprehensive, Standardized, and Reliable Benchmarking System for Evaluating Chinese Medical Large Language Models**   
+   Mianxin Liu, Jinru Ding, Jie Xu, Weiguo Hu, Xiaoyang Li, Lifeng Zhu, Zhian Bai, *Xiaoming Shi*, Benyou Wang, Haitao Song, Pengfei Liu, Xiaofan Zhang, Shanshan Wang, Kang Li, Haofen Wang, Tong Ruan, Xuanjing Huang, Xin Sun, and Shaoting Zhang  
+   Big Data Mining and Analytics, 2024. (Q1)  
+   [[Paper](https://www.sciopen.com/article/10.26599/BDMA.2024.9020044)]  
+9. **Coherency Improved Explainable Recommendation via Large Language Model**  
+    Shijie Liu, Ruixin Ding, Weiha Lu, Jun Wang, Mo Yu, *Xiaoming Shi*, and Wei Zhang.  
+    In Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). (CCF A)  
+10. **STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling**  
+    Jieyi Wang, Yue Huang, Zeming Liu, Dexuan Xu, Chuan Wang, *Xiaoming Shi*, Ruiyuan Guan, Hongxing Wang, Weihua Yue, and Yu Huang.  
+    In Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). (CCF A)
+11. **AF Adapter: Continual Pretraining for Building Chinese Biomedical Language Model.**  
    Yongyu Yan, Kui Xue, *Xiaoming Shi*, Qi Ye, Jingping Liu, and Tong Ruan.  
    In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023). (CCF B)   
    [[Paper](https://www.computer.org/csdl/proceedings-article/bibm/2023/10385733/1TObTklefWo)]
    [[Code](https://github.com/yanyongyu/AF-Adapter)]
-8. **Online Action Detection with Learning Future Representations by Contrastive Learning**  
-   Haitao Leng, *Xiaoming Shi*, Wei Zhou, Kuncai Zhang, Qiankun Shi, and Pengcheng Zhu.  
-   In Proceedings of the IEEE International Conference on Multimedia and Expo 2023. (CCF B)  
-   [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10220027)]
-9. **MedBench: A Comprehensive, Standardized, and Reliable Benchmarking System for Evaluating Chinese Medical Large Language Models**   
-   Mianxin Liu, Jinru Ding, Jie Xu, Weiguo Hu, Xiaoyang Li, Lifeng Zhu, Zhian Bai, *Xiaoming Shi*, Benyou Wang, Haitao Song, Pengfei Liu, Xiaofan Zhang, Shanshan Wang, Kang Li, Haofen Wang, Tong Ruan, Xuanjing Huang, Xin Sun, and Shaoting Zhang  
-   Big Data Mining and Analytics, 2024. (Q1)  
-   [[Paper](https://www.sciopen.com/article/10.26599/BDMA.2024.9020044)]  
-10. **Coherency Improved Explainable Recommendation via Large Language Model**  
-    Shijie Liu, Ruixin Ding, Weiha Lu, Jun Wang, Mo Yu, *Xiaoming Shi*, and Wei Zhang.  
-    In Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). (CCF A)  
-11. **STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling**  
-    Jieyi Wang, Yue Huang, Zeming Liu, Dexuan Xu, Chuan Wang, *Xiaoming Shi*, Ruiyuan Guan, Hongxing Wang, Weihua Yue, and Yu Huang.  
-    In Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). (CCF A)  
-13. **大语言模型安全性:分类、评估、归因、缓解、展望**  
+12. **大语言模型安全性:分类、评估、归因、缓解、展望**  
     李思霖, 兰天伟, 邱昱力, 单赢宇, *施晓明*, 柳泽明, 姚嘉树, 曾理, 郭宇航, 黄河燕.  
     计算机学报, 2024. (CCF A类中文科技期刊)
    
