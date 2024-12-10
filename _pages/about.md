@@ -84,8 +84,14 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
 9. **MedBench: A Comprehensive, Standardized, and Reliable Benchmarking System for Evaluating Chinese Medical Large Language Models**   
    Mianxin Liu, Jinru Ding, Jie Xu, Weiguo Hu, Xiaoyang Li, Lifeng Zhu, Zhian Bai, *Xiaoming Shi*, Benyou Wang, Haitao Song, Pengfei Liu, Xiaofan Zhang, Shanshan Wang, Kang Li, Haofen Wang, Tong Ruan, Xuanjing Huang, Xin Sun, and Shaoting Zhang  
    Big Data Mining and Analytics, 2024. (Q1)  
-   [[Paper](https://www.sciopen.com/article/10.26599/BDMA.2024.9020044)]
-10. **大语言模型安全性:分类、评估、归因、缓解、展望**  
+   [[Paper](https://www.sciopen.com/article/10.26599/BDMA.2024.9020044)]  
+10. **Coherency Improved Explainable Recommendation via Large Language Model**  
+    Shijie Liu, Ruixin Ding, Weiha Lu, Jun Wang, Mo Yu, *Xiaoming Shi*, and Wei Zhang.  
+    In Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). (CCF A)  
+11. **STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling**  
+    Jieyi Wang, Yue Huang, Zeming Liu, Dexuan Xu, Chuan Wang, *Xiaoming Shi*, Ruiyuan Guan, Hongxing Wang, Weihua Yue, and Yu Huang.  
+    In Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). (CCF A)  
+13. **大语言模型安全性:分类、评估、归因、缓解、展望**  
     李思霖, 兰天伟, 邱昱力, 单赢宇, *施晓明*, 柳泽明, 姚嘉树, 曾理, 郭宇航, 黄河燕  
     计算机学报, 2024. (CCF A类中文科技期刊)
    
