@@ -42,6 +42,8 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
 - *2024.04*: The Hong Kong Polytechnic University, ''A Brief Introduction of Medical Dialogue System''. 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper "Coherency Improved Explainable Recommendation via Large Language Model" is accepted by AAAI 2025.
+- *2024.12*: &nbsp;🎉🎉 One paper "STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling" is accepted by AAAI 2025.
 - *2024.05*: &nbsp;🎉🎉 One paper ''Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges'' is accepted by ACL 2024 findings.
 
 # 📝 Publications 
