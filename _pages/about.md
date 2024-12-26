@@ -49,10 +49,10 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
 # 📝 Publications 
 1. **Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges.**    
    *Xiaoming Shi*, Zeming Liu, Li Du, Yuxuan Wang, Hongru Wang, Yuhang Guo, Tong Ruan, Jie Xu, and Shaoting Zhang.  
-   In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024) Findings. (CCF A)  
+   In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) Findings. (CCF A)  
    [[Paper](https://aclanthology.org/2024.findings-acl.167/)]
 2. **MidMed: Towards Mixed-Type Dialogues for Medical Consultation.**  
-   *Xiaoming Shi*, Zeming Liu, Chuan Wang, Haitao Leng, Kui Xue, Xiaofan Zhang, and Shaoting Zhang.
+   *Xiaoming Shi*, Zeming Liu, Chuan Wang, Haitao Leng, Kui Xue, Xiaofan Zhang, and Shaoting Zhang.  
    In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023). (CCF A)   
    [[Paper](https://aclanthology.org/2023.acl-long.453.pdf)]
    [[Resource](https://github.com/xmshi-trio/MidMed)]
