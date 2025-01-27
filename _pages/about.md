@@ -93,10 +93,10 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
    In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023). (CCF B)   
    [[Paper](https://www.computer.org/csdl/proceedings-article/bibm/2023/10385733/1TObTklefWo)]
    [[Code](https://github.com/yanyongyu/AF-Adapter)]
-12. **KwaiChat: A Large-Scale Video-Driven Multilingual Mixed-Type Dialogue Corpus.**
+12. **KwaiChat: A Large-Scale Video-Driven Multilingual Mixed-Type Dialogue Corpus.**    
     *Xiaoming Shi*, Zeming Liu, Yiming Lei, Chenkai Zhang, Haitao Leng, Chuan Wang, Qingjie Liu, and Yunhong Wang.    
     NAACL 2025. (CCF B)
-13. **Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring.**
+13. **Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring.**    
     Honglin Mu, Han He, Yuxin Zhou, Yunlong Feng, Yang Xu, Libo Qin, *Xiaoming Shi*, Zeming Liu, Xudong Han, Qi Shi, Qingfu Zhu, and Wanxiang Che.   
     NAACL 2025. (CCF B)   
 15. **大语言模型安全性:分类、评估、归因、缓解、展望.**  
