@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am an Associate Researcher and Master Supervisor at the [School of Computer Science and Technology](http://www.cs.ecnu.edu.cn/), [East China Normal University](https://english.ecnu.edu.cn/). 
-I was selected for the Shanghai Youth Science and Technology Rising Star Program (上海市青年科技启明星扬帆专项) in 2023.
+I was selected for the Shanghai Youth Science and Technology Rising Star Program (上海市青年科技英才扬帆计划) in 2023.
 My research interests primarily focus on foundational issues in NLP and AI for medicine and education, such as Large Language Models, clinical NLP, and AI-assisted education. 
 I completed my Ph.D. at the [Research Center for Social Computing and Information Retrieval (SCIR)](https://ir.hit.edu.cn/) in 2022, under the supervision of Professor [Wanxiang Che](http://ir.hit.edu.cn/~car/). 
 Also, I had worked as a algorithm engineer intern at [Tencent Jarvis Lab](https://jarvislab.tencent.com/) during my Ph.D, under the supervision of [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=en&oi=ao).
@@ -35,7 +35,7 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
 - *2012.09 - 2016.06*, Bachelor of Mathematics, Harbin Institute of Technology. 
 
 # 🎖 Honors and Awards
-- *2023* Shanghai Youth Science and Technology Rising Star Program (上海市青年科技启明星扬帆专项), 2023.
+- *2023* Shanghai Youth Science and Technology Rising Star Program (上海市青年科技英才扬帆计划), 2023.
 
 # 💬 Invited Talks
 - *2024.09*: 中国数字经济创新发展大会, ''AI时代算力的影响及智能教育的应用''.
@@ -102,7 +102,7 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
 15. **大语言模型安全性:分类、评估、归因、缓解、展望.**  
     李思霖, 兰天伟, 邱昱力, 单赢宇, *施晓明*, 柳泽明, 姚嘉树, 曾理, 郭宇航, 黄河燕.  
     计算机学报, 2024. (CCF A类中文科技期刊)
-   
+
 # 🧱 Patents
 1. **一种语义识别方法、装置、计算机设备和存储介质**, CN112052318A.
 2. **用于自动问答系统的分类模型训练、自动答答方法及装置**, CN112287089B.
