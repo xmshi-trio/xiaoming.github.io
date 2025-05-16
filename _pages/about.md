@@ -38,68 +38,78 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
 - *2023* Shanghai Youth Science and Technology Rising Star Program (上海市青年科技英才扬帆计划), 2023.
 
 # 💬 Invited Talks
+- *2025.05*: Communication University of Zhejiang, ''AIGC时代教育产品变革：迈向个性化与智能化''.
 - *2024.09*: 中国数字经济创新发展大会, ''AI时代算力的影响及智能教育的应用''.
 - *2024.04*: The Hong Kong Polytechnic University, ''A Brief Introduction of Medical Dialogue System''. 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 One paper "Coherency Improved Explainable Recommendation via Large Language Model" is accepted by AAAI 2025.
-- *2024.12*: &nbsp;🎉🎉 One paper "STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling" is accepted by AAAI 2025.
-- *2024.05*: &nbsp;🎉🎉 One paper ''Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges'' is accepted by ACL 2024 findings.
+- *2025.05*: &nbsp;🎉🎉 One paper ''Mis-prompt: Benchmarking Large Language Models for Proactive Error Handling'' is accepted by ACL 2025.
+- *2024.12*: &nbsp;🎉🎉 One paper "LIFBench: Evaluating the Instruction Following Performance and Stability of Large Language Models in Long-Context Scenarios" is accepted by ACL 2025.
+- *2024.12*: &nbsp;🎉🎉 One paper "Flow2Code: Evaluating Large Language Models for Flowchart-based Code Generation Capability" is accepted by ACL 2025 Findings.
 
 # 📝 Publications 
-1. **Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges.**    
+1. **Mis-prompt: Benchmarking Large Language Models for Proactive Error Handling.**  
+   Jiayi Zeng, Yizhe Feng, Mengliang He, Wenhui Lei, Wei Zhang, Zeming Liu, *Xiaoming Shi*, and Aimin Zhou.  
+   In Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics (ACL 2025). (CCF A)  
+2. **LIFBench: Evaluating the Instruction Following Performance and Stability of Large Language Models in Long-Context Scenarios.**  
+   Xiaodong Wu, Minhao Wang, Yichen Liu, *Xiaoming Shi*, He Yan, Lu Xiangju, Junmin Zhu, and *Wei Zhang*.  
+   In Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics (ACL 2025). (CCF A)  
+3. **Flow2Code: Evaluating Large Language Models for Flowchart-based Code Generation Capability.**  
+   Mengliang He, Jiayi Zeng, Yankai Jiang, Wei Zhang, Zeming Liu, *Xiaoming Shi*, and Aimin Zhou.  
+   In Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics (ACL 2025) Findings. (CCF A) 
+4.    **Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges.**    
    *Xiaoming Shi*, Zeming Liu, Li Du, Yuxuan Wang, Hongru Wang, Yuhang Guo, Tong Ruan, Jie Xu, and Shaoting Zhang.  
    In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) Findings. (CCF A)  
    [[Paper](https://aclanthology.org/2024.findings-acl.167/)]
-2. **MidMed: Towards Mixed-Type Dialogues for Medical Consultation.**  
+5. **MidMed: Towards Mixed-Type Dialogues for Medical Consultation.**  
    *Xiaoming Shi*, Zeming Liu, Chuan Wang, Haitao Leng, Kui Xue, Xiaofan Zhang, and Shaoting Zhang.  
    In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023). (CCF A)   
    [[Paper](https://aclanthology.org/2023.acl-long.453.pdf)]
    [[Resource](https://github.com/xmshi-trio/MidMed)]
-3. **Understanding Medical Conversations with Scattered Keyword Attention and Weak Supervision from Responses.**  
+6. **Understanding Medical Conversations with Scattered Keyword Attention and Weak Supervision from Responses.**  
    *Xiaoming Shi*, Haifeng Hu, Wanxiang Che, Zhongqian Sun, Ting Liu and Junzhou Huang.  
    In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020). (CCF A)   
    [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6412)]
    [[Code](https://github.com/xmshi-trio/MSL)]
-4. **Understanding Patient Query with Weak Supervision from Doctor Response.**    
+7. **Understanding Patient Query with Weak Supervision from Doctor Response.**    
    *Xiaoming Shi*, Sendong Zhao, Wanxiang Che, Yefeng Zheng.  
    IEEE Journal of Biomedical and Health Informatics 26, no. 6 (2021): 2770-2777. (Q1)  
    [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9645193)]
    [[Code](https://github.com/xmshi-trio/MSL)]
-5. **Learning Semantic Alignment with Global Modality Reconstruction for VideoLanguage Pre-training towards Retrieval.**  
+8. **Learning Semantic Alignment with Global Modality Reconstruction for VideoLanguage Pre-training towards Retrieval.**  
    Mingchao Li, *Xiaoming Shi*, Haitao Leng, Wei Zhou, Haitao Zheng, and Kuncai Zhang. (Co-first author)   
    In Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023). (CCF A)  
    [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25222)]
-6. **Combating with Extremely Noisy Samples in Weakly Supervised Slot Filling for Automatic Diagnosis.**  
+9. **Combating with Extremely Noisy Samples in Weakly Supervised Slot Filling for Automatic Diagnosis.**  
    *Xiaoming Shi*, and Wanxiang Che.  
    Frontiers of Computer Science 17, no. 5 (2023): 175333. (Q1)   
    [[Paper](https://link.springer.com/article/10.1007/s11704-022-2134-1)]
-7. **Online Action Detection with Learning Future Representations by Contrastive Learning.**  
+10. **Online Action Detection with Learning Future Representations by Contrastive Learning.**  
    Haitao Leng, *Xiaoming Shi*, Wei Zhou, Kuncai Zhang, Qiankun Shi, and Pengcheng Zhu.  
    In Proceedings of the IEEE International Conference on Multimedia and Expo 2023. (CCF B)  
    [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10220027)]
-8. **MedBench: A Comprehensive, Standardized, and Reliable Benchmarking System for Evaluating Chinese Medical Large Language Models.**   
+11. **MedBench: A Comprehensive, Standardized, and Reliable Benchmarking System for Evaluating Chinese Medical Large Language Models.**   
    Mianxin Liu, Jinru Ding, Jie Xu, Weiguo Hu, Xiaoyang Li, Lifeng Zhu, Zhian Bai, *Xiaoming Shi*, Benyou Wang, Haitao Song, Pengfei Liu, Xiaofan Zhang, Shanshan Wang, Kang Li, Haofen Wang, Tong Ruan, Xuanjing Huang, Xin Sun, and Shaoting Zhang  
    Big Data Mining and Analytics, 2024. (Q1)  
    [[Paper](https://www.sciopen.com/article/10.26599/BDMA.2024.9020044)]  
-9. **Coherency Improved Explainable Recommendation via Large Language Model.**  
+12. **Coherency Improved Explainable Recommendation via Large Language Model.**  
     Shijie Liu, Ruixin Ding, Weiha Lu, Jun Wang, Mo Yu, *Xiaoming Shi*, and Wei Zhang.  
     In Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). (CCF A)  
-10. **STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling.**  
+13. **STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling.**  
     Jieyi Wang, Yue Huang, Zeming Liu, Dexuan Xu, Chuan Wang, *Xiaoming Shi*, Ruiyuan Guan, Hongxing Wang, Weihua Yue, and Yu Huang.  
     In Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). (CCF A)
-11. **AF Adapter: Continual Pretraining for Building Chinese Biomedical Language Model.**  
+14. **AF Adapter: Continual Pretraining for Building Chinese Biomedical Language Model.**  
    Yongyu Yan, Kui Xue, *Xiaoming Shi*, Qi Ye, Jingping Liu, and Tong Ruan.  
    In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023). (CCF B)   
    [[Paper](https://www.computer.org/csdl/proceedings-article/bibm/2023/10385733/1TObTklefWo)]
    [[Code](https://github.com/yanyongyu/AF-Adapter)]
-12. **KwaiChat: A Large-Scale Video-Driven Multilingual Mixed-Type Dialogue Corpus.**    
+15. **KwaiChat: A Large-Scale Video-Driven Multilingual Mixed-Type Dialogue Corpus.**    
     *Xiaoming Shi*, Zeming Liu, Yiming Lei, Chenkai Zhang, Haitao Leng, Chuan Wang, Qingjie Liu, and Yunhong Wang.    
     NAACL 2025. (CCF B)
-13. **Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring.**    
+16. **Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring.**    
     Honglin Mu, Han He, Yuxin Zhou, Yunlong Feng, Yang Xu, Libo Qin, *Xiaoming Shi*, Zeming Liu, Xudong Han, Qi Shi, Qingfu Zhu, and Wanxiang Che.   
     NAACL 2025. (CCF B)   
-15. **大语言模型安全性:分类、评估、归因、缓解、展望.**  
+17. **大语言模型安全性:分类、评估、归因、缓解、展望.**  
     李思霖, 兰天伟, 邱昱力, 单赢宇, *施晓明*, 柳泽明, 姚嘉树, 曾理, 郭宇航, 黄河燕.  
     计算机学报, 2024. (CCF A类中文科技期刊)
 
