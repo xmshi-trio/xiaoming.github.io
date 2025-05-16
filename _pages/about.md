@@ -44,8 +44,8 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One paper ''Mis-prompt: Benchmarking Large Language Models for Proactive Error Handling'' is accepted by ACL 2025.
-- *2024.12*: &nbsp;🎉🎉 One paper "LIFBench: Evaluating the Instruction Following Performance and Stability of Large Language Models in Long-Context Scenarios" is accepted by ACL 2025.
-- *2024.12*: &nbsp;🎉🎉 One paper "Flow2Code: Evaluating Large Language Models for Flowchart-based Code Generation Capability" is accepted by ACL 2025 Findings.
+- *2025.05*: &nbsp;🎉🎉 One paper "LIFBench: Evaluating the Instruction Following Performance and Stability of Large Language Models in Long-Context Scenarios" is accepted by ACL 2025.
+- *2025.05*: &nbsp;🎉🎉 One paper "Flow2Code: Evaluating Large Language Models for Flowchart-based Code Generation Capability" is accepted by ACL 2025 Findings.
 
 # 📝 Publications 
 1. **Mis-prompt: Benchmarking Large Language Models for Proactive Error Handling.**  
