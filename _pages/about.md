@@ -60,7 +60,7 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
 4. **Cost-effective Instruction Learning for Pathology Vision and Language Analysis.**  
    Kaitao Chen, Mianxin Liu, Fang Yan, Lei Ma, *Xiaoming Shi*, Lilong Wang, Xiaosong Wang, Lifeng Zhu, Zhe Wang, Mu Zhou, and Shaoting Zhang.  
    Nature Computational Science (2025). (Q1)  
-   [[Paper](https://www.nature.com/articles/s43588-025-00818-5#citeas))]  
+   [[Paper](https://www.nature.com/articles/s43588-025-00818-5#citeas)]  
 6. **Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges.**   
    *Xiaoming Shi*, Zeming Liu, Li Du, Yuxuan Wang, Hongru Wang, Yuhang Guo, Tong Ruan, Jie Xu, and Shaoting Zhang.  
    In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) Findings. (CCF A)  
