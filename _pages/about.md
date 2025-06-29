@@ -94,7 +94,7 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
    [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10220027)]
 13. **MedBench: A Comprehensive, Standardized, and Reliable Benchmarking System for Evaluating Chinese Medical Large Language Models.**   
    Mianxin Liu, Jinru Ding, Jie Xu, Weiguo Hu, Xiaoyang Li, Lifeng Zhu, Zhian Bai, *Xiaoming Shi*, Benyou Wang, Haitao Song, Pengfei Liu, Xiaofan Zhang, Shanshan Wang, Kang Li, Haofen Wang, Tong Ruan, Xuanjing Huang, Xin Sun, and Shaoting Zhang.  
-   Big Data Mining and Analytics, 2024. (Q1)
+   Big Data Mining and Analytics, 2024. (Q1)  
    [[Paper](https://www.sciopen.com/article/10.26599/BDMA.2024.9020044)]  
 15. **Coherency Improved Explainable Recommendation via Large Language Model.**  
     Shijie Liu, Ruixin Ding, Weiha Lu, Jun Wang, Mo Yu, *Xiaoming Shi*, and Wei Zhang.  
