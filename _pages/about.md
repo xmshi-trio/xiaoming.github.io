@@ -59,7 +59,7 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
    In Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics (ACL 2025) Findings. (CCF A)  
 4. **Cost-effective Instruction Learning for Pathology Vision and Language Analysis.**  
    Kaitao Chen, Mianxin Liu, Fang Yan, Lei Ma, *Xiaoming Shi*, Lilong Wang, Xiaosong Wang, Lifeng Zhu, Zhe Wang, Mu Zhou, and Shaoting Zhang.  
-   Nature Computational Science (2025). (Q1)
+   Nature Computational Science (2025). (Q1)  
    [[Paper](https://www.nature.com/articles/s43588-025-00818-5#citeas))]  
 6. **Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges.**   
    *Xiaoming Shi*, Zeming Liu, Li Du, Yuxuan Wang, Hongru Wang, Yuhang Guo, Tong Ruan, Jie Xu, and Shaoting Zhang.  
@@ -98,22 +98,26 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
    [[Paper](https://www.sciopen.com/article/10.26599/BDMA.2024.9020044)]  
 14. **Coherency Improved Explainable Recommendation via Large Language Model.**  
     Shijie Liu, Ruixin Ding, Weiha Lu, Jun Wang, Mo Yu, *Xiaoming Shi*, and Wei Zhang.  
-    In Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). (CCF A)  
-15. **STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling.**  
+    In Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). (CCF A)
+    [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33329/35484)]  
+16. **STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling.**  
     Jieyi Wang, Yue Huang, Zeming Liu, Dexuan Xu, Chuan Wang, *Xiaoming Shi*, Ruiyuan Guan, Hongxing Wang, Weihua Yue, and Yu Huang.  
     In Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). (CCF A)
-16. **AF Adapter: Continual Pretraining for Building Chinese Biomedical Language Model.**  
+    [[Paper](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/get/apa?submissionId=34725&publicationId=32998)]  
+18. **AF Adapter: Continual Pretraining for Building Chinese Biomedical Language Model.**  
    Yongyu Yan, Kui Xue, *Xiaoming Shi*, Qi Ye, Jingping Liu, and Tong Ruan.  
    In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023). (CCF B)   
    [[Paper](https://www.computer.org/csdl/proceedings-article/bibm/2023/10385733/1TObTklefWo)]
    [[Code](https://github.com/yanyongyu/AF-Adapter)]
-17. **KwaiChat: A Large-Scale Video-Driven Multilingual Mixed-Type Dialogue Corpus.**    
+19. **KwaiChat: A Large-Scale Video-Driven Multilingual Mixed-Type Dialogue Corpus.**    
     *Xiaoming Shi*, Zeming Liu, Yiming Lei, Chenkai Zhang, Haitao Leng, Chuan Wang, Qingjie Liu, and Yunhong Wang.    
     NAACL 2025. (CCF B)
-18. **Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring.**    
+    [[Paper](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-naacl.121.pdf)]
+21. **Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring.**    
     Honglin Mu, Han He, Yuxin Zhou, Yunlong Feng, Yang Xu, Libo Qin, *Xiaoming Shi*, Zeming Liu, Xudong Han, Qi Shi, Qingfu Zhu, and Wanxiang Che.   
-    NAACL 2025. (CCF B)   
-19. **大语言模型安全性:分类、评估、归因、缓解、展望.**  
+    NAACL 2025. (CCF B)
+    [[Paper](https://aclanthology.org/2025.naacl-long.88.pdf)]  
+23. **大语言模型安全性:分类、评估、归因、缓解、展望.**  
     李思霖, 兰天伟, 邱昱力, 单赢宇, *施晓明*, 柳泽明, 姚嘉树, 曾理, 郭宇航, 黄河燕.  
     计算机学报, 2024. (CCF A类中文科技期刊)
 
