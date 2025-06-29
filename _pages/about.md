@@ -93,16 +93,16 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
    In Proceedings of the IEEE International Conference on Multimedia and Expo 2023. (CCF B)  
    [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10220027)]
 13. **MedBench: A Comprehensive, Standardized, and Reliable Benchmarking System for Evaluating Chinese Medical Large Language Models.**   
-   Mianxin Liu, Jinru Ding, Jie Xu, Weiguo Hu, Xiaoyang Li, Lifeng Zhu, Zhian Bai, *Xiaoming Shi*, Benyou Wang, Haitao Song, Pengfei Liu, Xiaofan Zhang, Shanshan Wang, Kang Li, Haofen Wang, Tong Ruan, Xuanjing Huang, Xin Sun, and Shaoting Zhang  
-   Big Data Mining and Analytics, 2024. (Q1)  
+   Mianxin Liu, Jinru Ding, Jie Xu, Weiguo Hu, Xiaoyang Li, Lifeng Zhu, Zhian Bai, *Xiaoming Shi*, Benyou Wang, Haitao Song, Pengfei Liu, Xiaofan Zhang, Shanshan Wang, Kang Li, Haofen Wang, Tong Ruan, Xuanjing Huang, Xin Sun, and Shaoting Zhang.  
+   Big Data Mining and Analytics, 2024. (Q1)
    [[Paper](https://www.sciopen.com/article/10.26599/BDMA.2024.9020044)]  
-14. **Coherency Improved Explainable Recommendation via Large Language Model.**  
+15. **Coherency Improved Explainable Recommendation via Large Language Model.**  
     Shijie Liu, Ruixin Ding, Weiha Lu, Jun Wang, Mo Yu, *Xiaoming Shi*, and Wei Zhang.  
-    In Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). (CCF A)
+    In Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). (CCF A)  
     [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33329/35484)]  
 16. **STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling.**  
     Jieyi Wang, Yue Huang, Zeming Liu, Dexuan Xu, Chuan Wang, *Xiaoming Shi*, Ruiyuan Guan, Hongxing Wang, Weihua Yue, and Yu Huang.  
-    In Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). (CCF A)
+    In Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). (CCF A)  
     [[Paper](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/get/apa?submissionId=34725&publicationId=32998)]  
 18. **AF Adapter: Continual Pretraining for Building Chinese Biomedical Language Model.**  
    Yongyu Yan, Kui Xue, *Xiaoming Shi*, Qi Ye, Jingping Liu, and Tong Ruan.  
@@ -111,11 +111,11 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
    [[Code](https://github.com/yanyongyu/AF-Adapter)]
 19. **KwaiChat: A Large-Scale Video-Driven Multilingual Mixed-Type Dialogue Corpus.**    
     *Xiaoming Shi*, Zeming Liu, Yiming Lei, Chenkai Zhang, Haitao Leng, Chuan Wang, Qingjie Liu, and Yunhong Wang.    
-    NAACL 2025. (CCF B)
+    NAACL 2025. (CCF B)  
     [[Paper](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-naacl.121.pdf)]
 21. **Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring.**    
     Honglin Mu, Han He, Yuxin Zhou, Yunlong Feng, Yang Xu, Libo Qin, *Xiaoming Shi*, Zeming Liu, Xudong Han, Qi Shi, Qingfu Zhu, and Wanxiang Che.   
-    NAACL 2025. (CCF B)
+    NAACL 2025. (CCF B)  
     [[Paper](https://aclanthology.org/2025.naacl-long.88.pdf)]  
 23. **大语言模型安全性:分类、评估、归因、缓解、展望.**  
     李思霖, 兰天伟, 邱昱力, 单赢宇, *施晓明*, 柳泽明, 姚嘉树, 曾理, 郭宇航, 黄河燕.  
