@@ -58,7 +58,7 @@ From 2022 to 2024, I was an associate researcher at [Shanghai AI Lab](https://ww
    [[Paper](https://aclanthology.org/2025.acl-long.803/)]    
 3. **Flow2Code: Evaluating Large Language Models for Flowchart-based Code Generation Capability.**  
    Mengliang He, Jiayi Zeng, Yankai Jiang, Wei Zhang, Zeming Liu, *Xiaoming Shi*, and Aimin Zhou.  
-   In Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics (ACL 2025) Findings. (CCF A)
+   In Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics (ACL 2025) Findings. (CCF A)  
    [[Paper](https://aclanthology.org/2025.findings-acl.425/)]  
 4. **Cost-effective Instruction Learning for Pathology Vision and Language Analysis.**  
    Kaitao Chen, Mianxin Liu, Fang Yan, Lei Ma, *Xiaoming Shi*, Lilong Wang, Xiaosong Wang, Lifeng Zhu, Zhe Wang, Mu Zhou, and Shaoting Zhang.  
